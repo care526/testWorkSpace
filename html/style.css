@@ -1,0 +1,6 @@
+@import './light.css';
+@import './dark.css';
+
+.asd {
+    color: var(--base-color);
+}
